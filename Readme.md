@@ -72,7 +72,7 @@
 
 ```bash
 # 1. Clone repository
-git clone [https://github.com/votre-username/tele-order-bot.git](https://github.com/votre-username/tele-order-bot.git)
+git clone [https://github.com/paddingtonfree-wo/tele-order-bot.git](https://github.com/paddingtonfree-wo/tele-order-bot.git)
 
 # 2. Navigate into directory
 cd tele-order-bot
