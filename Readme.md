@@ -1,82 +1,73 @@
-​<div align="center">
-​<p align="center">
-<a href="https://github.com/paddingtonfree-wo">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=TeleOrder+Bot;Telegram+Order+Automation;Instant+PDF+Receipts;Powered+by+Node.js" alt="Typing SVG" />
-</a>
-</p>
-​<p align="center">
-<img src="https://img.shields.io/badge/Node.js-v18%2B-00E676?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-<img src="https://img.shields.io/badge/Telegram-API-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-<img src="https://img.shields.io/badge/PDF_Generation-PDFKit-FF1744?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDFKit" />
-<img src="https://img.shields.io/badge/License-MIT-D500F9?style=for-the-badge" alt="License" />
-</p>
-​<h3>⚡ TeleOrder Bot – Automated Sales & Instant PDF Receipt Generator</h3>
-<p><i>Bot Telegram d'Automatisation des Commandes et Génération de Reçus PDF</i></p>
-​<p>
-<b>🇬🇧 English:</b> A high-performance Node.js solution designed for businesses to automate product catalog navigation, customer order collection, and real-time PDF receipt issuance on Telegram.
+<div align="center">
 
-<b>🇫🇷 Français:</b> Une solution Node.js performante conçue pour permettre aux entreprises d'automatiser leur catalogue, la prise de commandes et la génération de reçus PDF instantanés sur Telegram.
+<img src="./assets/hero.svg" alt="Tele bot IA — Solution Entreprise" width="100%"/>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=00EAFF&center=true&vCenter=true&width=750&lines=Tele+bot+%E2%9A%A1+Solution+d'Automatisation+IA+pour+PME;Accueil+Client+Dynamique+%2B+Gestion+de+Commandes;D%C3%A9velopp%C3%A9+par+Manfred+%F0%9F%A4%96" alt="typing"/>
+</h1>
+
+<!-- BOUTONS D'ACTION DIRECTS -->
+<p align="center">
+  <a href="https://t.me/Bot237mf_bot" target="_blank">
+    <img src="https://img.shields.io/badge/🤖_TESTER_LA_DÉMO-00EAFF?style=for-the-badge&labelColor=0a001f&color=ff00e0" alt="Tester le Bot" />
+  </a>
+  <a href="https://wa.me/237690022323" target="_blank">
+    <img src="https://img.shields.io/badge/💬_WHATSAPP_MANFRED-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Manfred" />
+  </a>
+  <a href="https://t.me/7292467668" target="_blank">
+    <img src="https://img.shields.io/badge/✈️_TELEGRAM_MANFRED-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Manfred" />
+  </a>
 </p>
-​</div>
-​🌟 Key Features / Fonctionnalités Clés
-​<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3>🇬🇧 English</h3>
-<ul>
-<li><b>🛒 Interactive Catalog:</b> Smooth product browsing using Telegram Inline Keyboards.</li>
-<li><b>📝 Checkout Automation:</b> Automatic collection of customer contact info (Name, Phone, Address).</li>
-<li><b>📄 Instant PDF Receipts:</b> Automatic generation and sending of clean PDF receipts via <code>pdfkit</code>.</li>
-<li><b>🔔 Real-time Admin Alerts:</b> Immediate notification sent to the store owner upon new order.</li>
-<li><b>🚀 Production Ready:</b> Lightweight architecture ready for Cloud deployment (VPS, Render, Docker).</li>
-</ul>
-</td>
-<td width="50%">
-<h3>🇫🇷 Français</h3>
-<ul>
-<li><b>🛒 Catalogue Interactif:</b> Navigation simple via des boutons intelligents Telegram.</li>
-<li><b>📝 Prise de Commande:</b> Collecte automatique des informations client (Nom, Téléphone, Adresse).</li>
-<li><b>📄 Reçus PDF Instantanés:</b> Création et envoi automatique de factures/reçus PDF via <code>pdfkit</code>.</li>
-<li><b>🔔 Alerte Admin en Direct:</b> Notification instantanée envoyée au propriétaire à chaque vente.</li>
-<li><b>🚀 Prêt pour le Cloud:</b> Architecture ultra-légère prête pour déploiement (VPS, Render, Docker).</li>
-</ul>
-</td>
-</tr>
-</table>
+
 </div>
-​🛠️ Tech Stack / Technologies Utilisées
-​Backend: Node.js, Express.js
-​Telegram Framework: telegraf / node-telegram-bot-api
-​PDF Generation: pdfkit
-​Environment Management: dotenv
-​🚀 Quick Start / Démarrage Rapide
-# 1. Clone repository
-git clone [https://github.com/paddingtonfree-wo/tele-order-bot.git](https://github.com/paddingtonfree-wo/tele-order-bot.git)
 
-# 2. Navigate into directory
-cd tele-order-bot
+---
 
-# 3. Install dependencies
-npm install
+## 🏢 Solution d'Automatisation pour Entreprises & PME
 
-# 4. Configure .env file
-BOT_TOKEN=your_telegram_bot_token
-ADMIN_CHAT_ID=your_telegram_chat_id
+> *"Transformez vos visiteurs Telegram en clients engagés grâce à une IA dynamique et disponible 24/7."*
 
-# 5. Start bot
-npm start
+**Tele bot** est une solution clé en main développée par **Manfred**, conçue pour automatiser le service client, conseiller les prospects sur les offres/catalogues de l'entreprise et transmettre instantanément les commandes validées aux gérants.
 
 <div align="center">
-📬 Contact & Hire Me / Me Contacter
-<p>Looking for a custom Telegram or WhatsApp bot for your business? Let's connect!</p>
-<p><i>Vous cherchez un bot sur-mesure Telegram ou WhatsApp pour votre entreprise ? Contactez-moi !</i></p>
-<a href="https://wa.me/237690022323?text=Bonjour%20Christopher,%20j'ai%20vu%20votre%20projet%20TeleOrder%20Bot%20et%20je%20souhaite%20discuter%20d'un%20projet." target="_blank">
-<img src="https://img.shields.io/badge/Contact_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-    
-<a href="https://t.me/christopherhacker" target="_blank">
-<img src="https://img.shields.io/badge/Message_on_Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%" />
+  <br/>
+  <img src="https://ibb.co/nMwF2W5N" alt="Aperçu du Bot" width="80%" style="border-radius: 10px; border: 1px solid #00eaff;" />
+  <br/>
 </div>
+
+```text
+┌──────────────────────────────────────────────┐
+│  ● ● ●   STATUT DU SERVICE ENTERPRISE        │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  99% ONLINE            │
+│  Temps de réponse ▸ <300ms   Moteur ▸ IA     │
+└──────────────────────────────────────────────┘
+
+✨ Valeur Ajoutée pour Votre Entreprise
+ * 🎯 Gestion Client Dynamique & Conseils : L'IA accueille chaleureusement les clients, répond à leurs questions et les oriente vers la bonne formule ou le bon produit.
+ * 🧠 Mémoire Contextuelle (Historique) : Conversation naturelle et fluide sans répétition grâce au suivi de l'historique de chaque utilisateur (database.json).
+ * 🚨 Transfert de Commandes aux Gérants : Dès qu'un client confirme un achat, le bot envoie immédiatement une notification complète sur Telegram (au développeur et au gérant de l'entreprise).
+ * ⚡ Haute Disponibilité & Redondance : Moteur IA hybride (Groq principal + Gemini en secours) assurant un service ininterrompu 24h/24.
+🛠️ Spécifications Techniques
+| Composant | Rôle Business / Technique |
+|---|---|
+| Backend | Node.js / Express (Serveur web continu) |
+| Framework Bot | Telegraf.js (API Telegram) |
+| Moteurs IA | Groq (GPT-OSS) & Google Gemini |
+| Base de Données | JSON Storage local (Historique & Profils) |
+📬 Contact & Intégration Sur-Mesure
+Vous souhaitez déployer Tele bot ou une version personnalisée pour votre entreprise ? Contactez directement Manfred :
+<p align="center">
+<a href="https://wa.me/237690022323" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-+237_690_022_323-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://t.me/Bot237mf_bot" target="_blank">
+<img src="https://img.shields.io/badge/Telegram_Bot-@Bot237mf__bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
+</a>
+<a href="https://t.me/7292467668" target="_blank">
+<img src="https://img.shields.io/badge/Telegram_Dev-Manfred-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Dev" />
+</a>
+</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20,24&height=120&section=footer&text=Solution%20IA%20Conçue%20par%20Manfred&fontSize=20"/>
+</div>
+
